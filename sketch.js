@@ -88,7 +88,7 @@ function draw() {
     //explanation of the program
     textSize(14);
     textWrap(WORD);
-    text("Approximates PI by drawing a polygon with a given number of sides and dividing its perimeter by a unit diameter of two (Radius of 1). The number of sides is increased by 1 each frame. The framerate can be controlled by the slider.", width * 0.01, height * 0.1, width * 0.2);
+    text("Approximates PI by drawing a polygon with a given number of sides and dividing its perimeter by a unit diameter of two (Radius of 1). The number of sides is increased by 1 each frame. The framerate can be controlled by the slider.", width * 0.01, height * 0.1, width * 0.3);
 
 
 }
